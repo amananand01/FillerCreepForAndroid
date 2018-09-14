@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/dark_energy.png",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/drawable-ldpi/dark_energy.png"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/matter.png",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/drawable-ldpi/matter.png"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/energy.png",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/drawable-ldpi/energy.png"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/dark_matter.png",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/drawable-ldpi/dark_matter.png"
+    }
+]

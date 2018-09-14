@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/layout/textinterface.xml",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/layout/textinterface.xml"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/layout/graphicalview.xml",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/layout/graphicalview.xml"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/build/intermediates/res/merged/debug/layout/graphicalinterface.xml",
+        "source": "/Users/AMAN/Desktop/FillerCreepForAndroid/app/src/main/res/layout/graphicalinterface.xml"
+    }
+]
